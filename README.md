@@ -41,6 +41,7 @@ Les cartes acceptées sont les cartes bancaires tunisiennes (CIB, Visa et Master
 Clic to Pay vous permet de :
 
 - Développer votre activité via votre site marchand
+
 - Bénéficier d’une garantie de paiement.
 
 Don't Forget to Star this repository  💀
